@@ -1,0 +1,49 @@
+.footer {
+    background: var(--third-color);
+    height: 15%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    bottom: 0;
+    
+    
+}
+
+.codedced pre {
+    color: aliceblue;
+    font-family:Roboto, "Helvetica Neue", sans-serif ;
+    font-size: 1.2vw;
+    font-weight:normal;
+}
+
+.coordenadoria {
+    color: aliceblue;
+    font-family:Roboto, "Helvetica Neue", sans-serif ;
+    font-size: 0.9vw;
+    font-weight: 100px;
+    line-height: 1.5;
+
+}
+
+.facebook{
+
+    margin-left:3%;
+    margin-top: 2%; 
+    
+}
+
+.youtube{
+
+    margin-top: 2%;
+
+
+} 
+
+.instagram{
+
+    margin-top: 2%;
+
+}
+
+
+

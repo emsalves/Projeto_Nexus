@@ -1,0 +1,86 @@
+.cartao{
+
+    background: var(--third-color);
+    width: 83%;
+    margin-left: 7.5%;
+    max-height: 2.5%;
+    
+    }
+    
+    .texto{
+    
+    color: aliceblue;
+    text-align: center;
+    font-size: 2rem;
+    font-weight:500;    
+    
+    
+    }
+    
+    #caixa{
+    
+    display: flex;
+    justify-content: center;
+    padding:0rem;
+    background-color:var(--primary-color);
+    margin-top: 2%;
+    border-radius: 25px;
+    background-repeat: no-repeat;
+    width: 85%;
+    height: 65%;
+    margin-left: 7%;
+    position: absolute;
+  
+
+    
+    }
+    
+    #caixa img{
+
+        position: absolute;
+        border-radius: 25px;
+        width: 100%;
+        height:100.2%;  
+        display: flex;
+       
+        
+        
+    }
+
+    .intro {
+        color: var(--secondary-color);
+    }
+
+    #caixa p{
+        color: var(--secondary-color);;
+        line-height: 1.25; 
+        font-size: 1.35rem;;
+        text-align: justify;
+        position: absolute;
+        margin: 0%;
+        top: 53%;
+        left: 50%;
+        margin-right: -30%;
+        transform: translate(-50%, -50%);
+
+
+    }
+
+    #caixa h1{
+
+   font-weight: bolder;
+   padding: 10px;
+   font-size: 1.6vw;
+   
+ 
+
+    }
+
+    #caixa mark {
+        background-color: rgb(127, 237, 100);
+    }
+
+
+
+    
+    

@@ -1,0 +1,98 @@
+.cartao{
+
+    background: var(--third-color);
+    width: 83%;
+    margin-left: 7.5%;
+    max-height: 2.5%;
+    
+    }
+    
+    .texto{
+    
+    color: aliceblue;
+    text-align: center;
+    font-size: 2rem;
+    font-weight:500;    
+    
+    
+    }
+    
+    #caixa{
+    
+    display: flex;
+    justify-content: center;
+    padding:0rem;
+    background: var(--third-color);
+    margin-top: 2%;
+    border-radius: 25px;
+    background-repeat: no-repeat;
+    width: 85%;
+    height: 65%;
+    margin-left: 7%;
+    position: absolute;
+  
+
+    
+    }
+    
+    #caixa img{
+
+        position: absolute;
+        border-radius: 25px;
+        width: 100%;
+        height:100.2%;  
+        display: flex;
+       
+        
+        
+    }
+
+    figure.foto-legenda{
+
+        position: relative;
+        width: 100%;
+        height:93.5%; 
+        border-radius: 25px;
+
+        
+    
+      
+
+    }
+
+    figure.foto-legenda figcaption{
+
+        opacity: 0;
+        position: absolute;
+        text-align: justify;
+        background-color: var(--primary-color);
+        width: 100%;
+        height:100%; 
+        box-sizing: border-box;
+        border-radius: 25px;
+        transition: opacity 1s;
+        
+    }
+
+    figure.foto-legenda:hover figcaption{
+
+        opacity: 0.85;
+
+    }
+
+    
+    figure.foto-legenda figcaption p{
+    color: var(--secondary-color);
+    line-height: 1.25; 
+    font-size: 2vw;
+    position: absolute;
+    margin: 0%;
+    top: 50%;
+    left: 50%;
+    margin-right: -30%;
+    transform: translate(-50%, -50%);
+    
+    
+    }
+
+    

@@ -1,0 +1,38 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; width: 100%; font-size: 16px;}
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;background-color: #e9e9e9;}
+
+
+.menu{
+
+    color: #fff;
+   
+}
+
+
+
+/* Cores padrao */
+:root {
+    --primary-color: rgb(245, 245, 245);
+    --secondary-color: #212121;
+    --third-color: linear-gradient(to right, #026b32, #00853B 40%);
+    --fourth-color: linear-gradient(to right, #fda014 40%, #ffb648); 
+
+}
+
+/* Cores do modo noturno, para funcionar as cores devem estar no css do elemento */
+.dark-theme {
+    --primary-color: #212121;
+    --secondary-color: #fff;
+    --third-color: linear-gradient(to right, #4c0a74 30%, #6c0f91 70%);
+    --fourth-color: linear-gradient(to right, #4cc9f0 40%, #4895ef); 
+}
+
+body {
+    background-color: var(--primary-color);;
+}
+
+
+
+

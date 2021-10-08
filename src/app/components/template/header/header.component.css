@@ -1,0 +1,28 @@
+.header{
+
+height: 20%;
+background: var(--third-color);
+display: flex;
+align-items: center;
+
+} 
+
+.header .logo{
+
+max-height: 6.5rem;
+padding-left: 10%;
+position: relative;
+opacity: 1;
+
+} 
+
+
+
+
+ 
+
+
+
+
+ 
+

@@ -1,0 +1,30 @@
+.menu{
+    max-height: 9%;
+    margin-top: 0.8%;
+    background: var(--fourth-color);
+    }
+
+
+.menu i{
+
+    display: flex;
+   vertical-align: middle;
+    height: auto;
+
+}
+
+.icones{
+
+display: flex;
+justify-content: flex-end;
+
+}
+
+.teste{
+
+padding: 6.4px;
+line-height: 1;
+height: 32px;
+
+}
+

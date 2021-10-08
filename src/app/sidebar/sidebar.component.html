@@ -1,0 +1,53 @@
+<mat-sidenav-container>
+    <mat-sidenav [(opened)] = "opened" mode="over" disableClose="true" class="invert"> 
+        <mat-nav-list class="nav-list">
+        <button  mat-icon-button color="basic" (click)="opened=!opened" class="botaout"> <mat-icon> 
+            menu  
+      </mat-icon> 
+     </button> 
+
+     <a mat-list-item class="sideicons " routerLink="">
+
+        <i class="material-icons">
+            space_dashboard
+        </i>
+        <pre><strong>  MÓDULOS  </strong></pre>
+     </a>
+
+     <a mat-list-item class="sideicons " routerLink="titulos">
+     <i class="material-icons">
+        menu_book
+    </i>
+    <pre>  Módulo I  </pre>
+ </a>
+
+ <a mat-list-item class="sideicons " routerLink="titulo2">
+    <i class="material-icons">
+        menu_book
+   </i>
+   <pre>  Módulo II  </pre>
+</a>
+
+<a mat-list-item class="sideicons " routerLink="titulo3">
+    <i class="material-icons">
+        menu_book
+   </i>
+   <pre>  Módulo III  </pre>
+</a>
+
+    </mat-nav-list>
+    </mat-sidenav>
+    <mat-sidenav-content>
+
+        <button mat-icon-button color="basic" (click)="opened=!opened" class="botaoin invert"> <mat-icon>
+            menu
+        </mat-icon> 
+         </button>
+        <router-outlet></router-outlet>
+         
+    </mat-sidenav-content>
+</mat-sidenav-container>
+
+
+
+
