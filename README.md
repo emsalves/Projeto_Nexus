@@ -1,6 +1,6 @@
 <img style="width:200px" src="nexus_logo.png">
 
-<img style="width:700px; margin-top:-60px" src="gif.gif">
+<img style="width:700px" src="gif.gif">
     
 # Sobre
 O projeto **NEXUS - Plataforma de conexão** foi desenvolvido com o intuito de desenvolver habilidades e conhecimentos a cerca de de linguagens de programação.
