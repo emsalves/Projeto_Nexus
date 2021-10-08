@@ -18,7 +18,4 @@ O projeto **NEXUS - Plataforma de conexão** foi desenvolvido com o intuito de d
 ``` bash
 #Clonar  o repositório
 $git clone https://github.com/emsalves/Projeto_Nexus.git
-
-#Entrar  o repositório
-$cd Projeto_Nexus
 ``` 
