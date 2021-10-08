@@ -1,15 +1,10 @@
-<h1 style="width:20px">
-    <img src="nexus_logo.png">
-<h1>
+<img style="width:200px" src="nexus_logo.png">
 
-<h1 style="width:400px; margin-top:-60px">
-    <img src="gif.gif">
-<h1>
-
+<img style="width:700px; margin-top:-60px" src="gif.gif">
+    
 # Sobre
 O projeto **NEXUS - Plataforma de conexão** foi desenvolvido com o intuito de desenvolver habilidades e conhecimentos a cerca de de linguagens de programação.
 
----
 
 # Ferramentas utilizadas
 - HTML 
@@ -17,7 +12,6 @@ O projeto **NEXUS - Plataforma de conexão** foi desenvolvido com o intuito de d
 - Angular 
 - Typescript 
 
----
 
 # Como instalar o projeto em sua máquina
 
