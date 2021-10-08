@@ -1,4 +1,4 @@
-<h1 style="width:150px">
+<h1 style="width:50px">
     <img src="nexus_logo.png">
 <h1>
 
