@@ -3,7 +3,7 @@
 <img style="width:700px" src="gif.gif">
     
 # Sobre
-O projeto **NEXUS - Plataforma de conexão** foi desenvolvido com o intuito de desenvolver habilidades e conhecimentos a cerca de de linguagens de programação.
+O projeto **NEXUS - Plataforma de conexão** foi desenvolvido com o intutito de desenvolver e aprimorar as habilidades em diferentes linguagens de programação voltadas para criação de uma SPA (Single Page Application).
 
 
 # Ferramentas utilizadas
